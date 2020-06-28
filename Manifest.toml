@@ -274,6 +274,12 @@ version = "1.4.4"
 deps = ["Unicode"]
 uuid = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 
+[[QuadGK]]
+deps = ["DataStructures", "LinearAlgebra"]
+git-tree-sha1 = "dc84e810393cfc6294248c9032a9cdacc14a3db4"
+uuid = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+version = "2.3.1"
+
 [[REPL]]
 deps = ["InteractiveUtils", "Markdown", "Sockets"]
 uuid = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
